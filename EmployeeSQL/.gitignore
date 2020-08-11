@@ -1,0 +1,5 @@
+config.py
+*.ipynb_checkpoints
+__pycache__
+ERD_Employee.png
+Employees_sql_challenge.sql
